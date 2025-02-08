@@ -6,14 +6,14 @@
 </p>
 
 <!-- Views Counter -->
-<a >
+<!-- <a >
     <img src="https://count.chiya.dev/get/@aadityabhoyarr?theme=rule34" alt="Profile Views" width="400"/>
-</a>
+</a> -->
 
 <!-- Stats Card -->
-<a >
+<!--<a >
     <img src="https://github-readme-stats.vercel.app/api?username=aadityabhoyarr&show_icons=false&theme=dark" alt="GitHub Stats" width="400"/>
-</a>
+</a> -->
 
 </div>
 
